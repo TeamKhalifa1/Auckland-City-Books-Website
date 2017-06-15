@@ -1,0 +1,82 @@
+.f-image{
+  width: 200px;
+  height: 300px;
+  padding: 2% 2%;
+  margin: 0 auto;
+}
+
+.f-section{
+  width: 90%;
+  float: right;
+  margin-left: 2%;
+
+}
+
+.f-item{
+  width: 1500px;
+
+}
+
+.f-item-box{
+  float: left;
+  width: 350px;
+  height: 350px;
+}
+
+.container{
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.f-item-box p a{
+  color: black;
+  text-align: center;
+}
+
+registration-form label {
+
+}
+
+
+
+.registration-form {
+width: 80%;
+margin: 0 auto;
+text-align: center;
+}
+
+
+
+form li {
+list-style: none;
+margin-bottom: 5px;
+text-align: center;
+}
+
+form ul li label{
+float: left;
+clear: left;
+width: 100px;
+text-align: right;
+margin-right: 10px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px;
+}
+
+form ul li input, select, span {
+float: left;
+margin-bottom: 10px;
+}
+
+form textarea {
+float: left;
+width: 350px;
+height: 150px;
+}
+
+[type="submit"] {
+clear: left;
+margin: 20px 0 0 230px;
+font-size:18px
+}
